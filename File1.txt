@@ -3,3 +3,5 @@ Hello World!!
 Changes - addded to fix the bug1
 
 Again Changed
+
+Learning 3 Way Merging
