@@ -4,7 +4,7 @@ Changes - addded to fix the bug1
 
 Again Changed
 
-Conflict created
+Conflict - created
 
 Learning 3 Way Merging
 
