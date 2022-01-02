@@ -1,3 +1,5 @@
 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
 
-Change added by team mate for WI6 on remote master to check pull
+Change : added by team mate for WI6 on remote master to check pull
+
+Added colon for bug4 on local master to test rebase
